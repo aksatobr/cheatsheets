@@ -1,2 +1,2 @@
-# cheatsheets
-A collection of usefull TL;DR documents
+# Cheat Sheets
+TL;DR style quick reference documentation. Stuff that matters.
